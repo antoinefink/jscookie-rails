@@ -1,4 +1,4 @@
-# js-cookie Rails
+# JavaScript Cookie inside Rails
 
 This gem helps adding the awesome [js-cookie](https://github.com/js-cookie/js-cookie) into rails without adding directly the source code.
 
